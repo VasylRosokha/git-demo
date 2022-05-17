@@ -1,1 +1,2 @@
 some song2
+new line in song2
